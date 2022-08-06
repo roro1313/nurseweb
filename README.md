@@ -1,2 +1,8 @@
-# nurseweb
-Training a nurse to become a web developer :)
+# First steps
+Install the repository<br>
+Make your first commit<br>
+Make your first branch<br>
+
+# Pro steps
+Do your first pull request 😍
+
